@@ -1,0 +1,6 @@
+#!/bin/bash
+SERVER="1.1.1.1"
+ping -c 2 $SERVER >~/Documents/Scripts 2> ./icmp-fail.log
+if [ -f ~/Documents/Scripts/icmp-fail.log ]; then
+    echo "Server is down" | mail -s "Server down" <email-addr>
+fi
