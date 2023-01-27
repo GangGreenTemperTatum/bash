@@ -1,5 +1,5 @@
 #!/bin/bash
-CURL='/usr/bin/curl'
+CURL=$(which curl)
 CURLARGS="GET" 
 EXAMPLEDOMAIN="https://example.com"
 $CURL $CURLARGS $EXAMPLEDOMAIN
