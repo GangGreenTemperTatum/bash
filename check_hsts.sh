@@ -12,3 +12,5 @@ while IFS= read -r host; do
         echo "$host does not have HSTS header."
     fi
 done < "$file_path"
+
+# alternate: $ while IFS= read -r host; do curl -s -vv "$host" 2>&1 | grep -q -i "Strict" && echo "$host has HSTS header." || echo "$host does not have HSTS header."; done < "host_list.txt"
