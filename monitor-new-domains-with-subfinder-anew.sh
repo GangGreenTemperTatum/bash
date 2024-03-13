@@ -1,4 +1,5 @@
 while true;
+do
   # For cohere.ai
   subfinder -silent -dL target1.txt -all | anew target1subs.txt | notify -bulk -pc ./providers.yaml
   # For cohere.com
