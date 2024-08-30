@@ -1,0 +1,52 @@
+Amazon Kindle.app
+Anaconda-Navigator.app
+AnyList.app
+Arc.app
+Bartender 5.app
+Brave Browser.app
+Bruno.app
+Burp Suite Professional.app
+Caido.app
+Chromium.app
+Cursor.app
+DevUtils.app
+Discord.app
+DuckDuckGo.app
+Evernote.app
+FileZilla.app
+Firefox.app
+Gifski.app
+GraphiQL.app
+Hidden Bar.app
+Kindle.app
+Linear.app
+Loom.app
+Multipass.app
+Notion.app
+Obsidian.app
+Ollama.app
+OpenVPN Connect.app
+Postman.app
+PowerShell.app
+Raycast.app
+Rocket.app
+Signal.app
+Slack.app
+Spotify.app
+Sublime Text.app
+Tailscale.app
+Threema.app
+Tor Browser.app
+TunnelBear.app
+Tuple.app
+UTM.app
+VMware Fusion.app
+Visual Studio Code.app
+Warp.app
+Wave.app
+WhatsApp.app
+WireGuard.app
+Wireshark.app
+ZAP.app
+Zenmap.app
+iTerm.app
